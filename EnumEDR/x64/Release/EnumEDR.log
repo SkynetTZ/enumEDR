@@ -1,0 +1,15 @@
+﻿  checkEDR.c
+  console.c
+  EDRs.c
+  enumDrivers.c
+  enumProcesses.c
+C:\Users\LAB2\Desktop\EnumEDRs-main\EnumEDR\enumDrivers.c(54,33): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\LAB2\Desktop\EnumEDRs-main\EnumEDR\enumProcesses.c(68,37): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+  helpers.c
+  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\LAB2\Desktop\EnumEDRs-main\EnumEDR\helpers.c(9): warning C4716: 'errorWin32': must return a value
+  All 60 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EnumEDR.vcxproj -> C:\Users\LAB2\Desktop\EnumEDRs-main\x64\Release\EnumEDR.exe
